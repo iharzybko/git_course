@@ -3,10 +3,7 @@ wall of shields
 tra ta ta
 papapa
 
-skr skr skr
-skr
-
-skr 
-skr skr
-skr skr skr
----------------------------------
+three
+two
+one
+esketit
